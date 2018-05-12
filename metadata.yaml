@@ -1,4 +1,5 @@
 _repo: The-Luzumiyat-of-Abu-l-Ala-Select-from-his-Luzum-ma-la-Yalzam-and-Suct-us-Zand_50457
+_version: 0.1.0
 contributor:
   translator:
     agent_name: Rihani, Ameen Fares
@@ -7,6 +8,9 @@ contributor:
     gutenberg_agent_id: '33794'
     url: http://www.gutenberg.org/2009/agents/33794
     wikipedia: http://en.wikipedia.org/wiki/Amin_al-Rihani
+covers:
+- cover_type: archival
+  image_path: 50457-h/images/new-cover-tn.jpg
 creator:
   author:
     agent_name: Abu al-Ala al-Maarri
@@ -16,6 +20,8 @@ creator:
     gutenberg_agent_id: '26732'
     url: http://www.gutenberg.org/2009/agents/26732
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/50457#The-Luzumiyat-of-Abu-l-Ala-Select-from-his-Luzum-ma-la-Yalzam-and-Suct-us-Zand
 gutenberg_issued: '2015-11-14'
 gutenberg_type: Text
 identifiers:
